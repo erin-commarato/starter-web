@@ -4,7 +4,7 @@
 
 This is a simple web project tutorial.
 
-Adding a line for rebase example
+Adding a line for rebase example, then more changes from myfeature branch too.
 
 ## Purpose
 
