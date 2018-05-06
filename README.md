@@ -4,6 +4,8 @@
 
 This is a simple web project tutorial.
 
+Adding a line for rebase example
+
 ## Purpose
 
 This project serves no real purpose other than usage as a tutorial :P
