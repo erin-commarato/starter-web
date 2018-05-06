@@ -14,7 +14,7 @@ Deployment can be on any server.
 
 ## How to Contribute
 
-Some other change
+Please fork this repo and then issue PR for review.
 
 ### Copyright
 
