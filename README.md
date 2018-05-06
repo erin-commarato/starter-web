@@ -2,6 +2,8 @@
 
 ## Introduction
 
+This is a simple web project tutorial.
+
 ## Purpose
 
 ## Deployment
