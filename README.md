@@ -15,3 +15,7 @@ Deployment can be on any server.
 ## How to Contribute
 
 Some other change
+
+### Copyright
+
+Copyright 2018
