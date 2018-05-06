@@ -13,3 +13,5 @@ This project serves no real purpose other than usage as a tutorial :P
 Deployment can be on any server.
 
 ## How to Contribute
+
+Some other change
